@@ -5,7 +5,7 @@ VisualStudioVersion = 12.0.30723.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VersionOne.ServiceHost.WorkitemServices", "VersionOne.ServiceHost.WorkitemServices\VersionOne.ServiceHost.WorkitemServices.csproj", "{76B6D3F1-16F8-43A9-A2B7-DDADAFE70D0D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VersionOne.ServiceHost.WorkitemServices.Tests", "..\VersionOne.ServiceHost.WorkitemServices.Tests\VersionOne.ServiceHost.WorkitemServices.Tests.csproj", "{D193DE4E-8CEA-4E81-9585-3C8C713B2331}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VersionOne.ServiceHost.WorkitemServices.Tests", "VersionOne.ServiceHost.WorkitemServices.Tests\VersionOne.ServiceHost.WorkitemServices.Tests.csproj", "{D193DE4E-8CEA-4E81-9585-3C8C713B2331}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
