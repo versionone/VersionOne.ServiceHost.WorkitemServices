@@ -5,5 +5,23 @@
     "configuration": "Release",
     "platform": "Any CPU",
     "version": "1.0.0.0",
-    "organizationName": "VersionOne, Inc."
+    "organizationName": "VersionOne, Inc.",
+    "assemblyinfo": [
+			{
+				"id": "VersionOne.ServiceHost.WorkitemServices",
+				"product":"VersionOne.ServiceHost.WorkitemServices",
+				"title":"VersionOne.ServiceHost.WorkitemServices",
+				"description":"Internal component used by VersionOne ServiceHost.",
+				"company":"VersionOne, Inc.",
+				"copyright":"Copyright 2008-2015, VersionOne, Inc."
+			},
+			{
+				"id": "VersionOne.ServiceHost.WorkitemServices.Tests",
+				"product":"VersionOne.ServiceHost.WorkitemServices.Tests",
+				"title":"VersionOne.ServiceHost.WorkitemServices.Tests",
+				"description":"description",
+				"company":"VersionOne, Inc.",
+				"copyright":"Copyright 2008-2015, VersionOne, Inc."
+			}
+    	]
 }
