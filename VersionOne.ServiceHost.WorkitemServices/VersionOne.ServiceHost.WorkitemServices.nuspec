@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>$author$</authors>
+    <owners>$author$</owners>
+    <licenseUrl>https://raw.githubusercontent.com/versionone/VersionOne.ServiceHost.Core/master/LICENSE.md</licenseUrl>
+    <projectUrl>https://raw.githubusercontent.com/versionone/VersionOne.ServiceHost.WorkitemServices/master/LICENSE.md</projectUrl>
+    <iconUrl>https://raw.githubusercontent.com/versionone/VersionOne.ServiceHost.WorkitemServices/master/v1.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>$description$</description>
+    <copyright>$copyright$</copyright>
+    <tags>$tags$</tags>
+  </metadata>
+</package>
