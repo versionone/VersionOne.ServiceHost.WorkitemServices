@@ -1,4 +1,4 @@
-using VersionOne.ServerConnector;
+using VersionOne.ServiceHost.ServerConnector;
 
 namespace VersionOne.ServiceHost.WorkitemServices {
     public class ClosedWorkitemsSource {

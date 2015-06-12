@@ -1,5 +1,5 @@
 ﻿using System.Collections.Generic;
-using VersionOne.ServerConnector.StartupValidation;
+using VersionOne.ServiceHost.ServerConnector.StartupValidation;
 using VersionOne.ServiceHost.Core;
 using VersionOne.ServiceHost.Core.StartupValidation;
 using VersionOne.ServiceHost.Eventing;

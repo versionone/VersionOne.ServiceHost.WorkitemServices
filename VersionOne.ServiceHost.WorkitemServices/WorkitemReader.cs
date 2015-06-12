@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
-using VersionOne.ServerConnector;
-using VersionOne.ServerConnector.Entities;
-using VersionOne.ServerConnector.Filters;
+using VersionOne.ServiceHost.ServerConnector;
+using VersionOne.ServiceHost.ServerConnector.Entities;
+using VersionOne.ServiceHost.ServerConnector.Filters;
 using VersionOne.ServiceHost.Core.Logging;
 
 namespace VersionOne.ServiceHost.WorkitemServices {
